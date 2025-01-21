@@ -1,6 +1,8 @@
-Here is the provided content converted into a Markdown (`.md`) format:
+# Kubernetes Cluster Setup on VMs - Guide
 
-```markdown
+This guide provides step-by-step instructions to set up a Kubernetes cluster using `kubeadm`. Follow along to configure your control plane, worker nodes, and install necessary components.
+
+
 # Table of Contents
 - [Prerequisites](#prerequisites)
 - [Edit hosts file](#edit-hosts-file)
@@ -23,7 +25,6 @@ Here is the provided content converted into a Markdown (`.md`) format:
 - [Update Github Containerd, CNI Network plugins, and RunC](#update-github-containerd-cni-network-plugins-and-runc)
 - [Note](#note)
 
----
 
 ## Prerequisites
 - Linux host
